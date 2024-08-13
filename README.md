@@ -1,4 +1,4 @@
-## 👋 Bem-Vindo(a) ao meu perfil!
+## Bem-Vindo(a) ao meu perfil!
 
 ---
 
@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/felipe-satler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 🌱 O que estou aprendendo:
+### O que estou fazendo:
 
 Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento full-stack** e tentando arranjar serviço.
