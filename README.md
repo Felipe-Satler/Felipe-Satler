@@ -26,4 +26,4 @@
 
 ### O que estou fazendo:
 
-Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento full-stack** e tentando arranjar serviço.
+Atualmente, estou focado em aprimorar minhas habilidades em **desenvolvimento full-stack**.
